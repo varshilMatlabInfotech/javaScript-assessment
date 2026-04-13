@@ -1,0 +1,9 @@
+{
+  "name": "javascript-assessment-interviewer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Private interviewer grading pack for the JavaScript assessment.",
+  "scripts": {
+    "test": "node scripts/run-assessment.js ../candidate-pack/src/candidate-solution.js"
+  }
+}
